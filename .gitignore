@@ -228,3 +228,6 @@ models/*
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MLflow local tracking
+mlruns/
